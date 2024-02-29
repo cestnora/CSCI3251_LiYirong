@@ -1,2 +1,2 @@
 # CSCI3251_LiYirong
-I will pull my project later
+This is a project of Li Yirong.
